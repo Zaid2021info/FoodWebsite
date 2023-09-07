@@ -1,0 +1,122 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&family=Lora:ital@1&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital@1&display=swap');
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+body{
+  overflow-x: hidden;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container1{
+  background: url(./image/lll.jpg);
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo-img {
+    height: 60px;
+    width: 100px;
+    ;
+    
+}
+
+
+.all-li li{
+    padding-left:40px ;
+   
+}
+
+
+.all-li .nav-item a:hover{
+ color:  rgb(213, 130, 28);
+ text-decoration: underline
+ 
+}
+.header-1{
+  
+    height: 87vh;
+    width: 100vw;
+   background-size: cover;
+   background-position: top;
+   
+   
+  
+   
+}
+.content{
+    color: rgb(9, 9, 9);
+    font-family: 'Playfair Display', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  margin-bottom: 30px;
+  /* font-weight: bold; */
+
+}
+.container2{
+  margin-top: 100px;
+}
+.header2{
+  background-color: rgb(202, 190, 190);
+ 
+}
+ul li a:hover{
+  color:  rgb(213, 130, 28);
+}
+  .line{
+  height: 3px;
+  width:80px;
+  background-color: red;
+  margin: auto;
+}
+
+.container3 .nav-item a:hover{
+  color: red;
+  text-decoration: underline;
+}
+.img9{
+  background: url(./image/people.jpg);
+  background-size: cover;
+}
+.bat12{
+  background-color: rgb(236, 228, 228);
+}
+.off1{
+  background-color: rgb(1, 1, 1);
+}
+.container313{
+  background-color: rgb(244, 238, 231);
+}
+.drop{
+  background-color: black;
+  height: vh;
+}
+.btn5:hover{
+  background-color: rgb(4, 4, 4);
+}
+
+.round{
+  display: none;
+}
+
+/* @media only screen and(max-width:770px) {
+  .round{
+    display: none;
+  }
+  
+} */
+
+
